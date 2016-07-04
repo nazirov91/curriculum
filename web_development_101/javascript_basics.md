@@ -338,6 +338,7 @@ This lesson will tend to focus on understanding the programming side of Javascri
 * [Harsha's Solution](https://github.com/HarshaLaxman/project_euler.git)
 * [Lien's Solution](https://github.com/lhphan/project-euler) | [View in browser](https://lhphan.github.io/project-euler/) 
 * [Martin's Solution](https://github.com/mnk179/project-euler-solutions)
+* [Sardorjon Nazirov's Solution](https://github.com/nazirov91/theOdinProject/tree/master/Euler_Problems) | [View on browser](http://htmlpreview.github.io/?https://github.com/nazirov91/theOdinProject/blob/master/Euler_Problems/index.html)
 * Add your solution above this line!
 
 ## Additional Resources
